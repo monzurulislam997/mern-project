@@ -1,0 +1,5 @@
+.shape.box {
+    background-color: white;
+    transform: perspective(600px) rotateY(20deg);
+
+}
